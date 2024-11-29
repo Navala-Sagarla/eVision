@@ -1,7 +1,7 @@
 {
     "VITE_BACKGROUND_IMAGE_URL": "https://www.shutterstock.com/image-vector/grunge-red-preview-word-square-260nw-773175091.jpg",
     "VITE_MAIN_TEXT": "Welcome to My App",
-   "VITE_COLOR": "red",
+   "VITE_COLOR": "blue",
      "VITE_API_URL": "https://api.example.com",
     "VITE_TEXT":"Hello World"
 
